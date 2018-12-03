@@ -1,0 +1,12 @@
+{
+    "name": "baghayi/pepipost-api",
+    "description": "A Wrapper around some of pepipost API resources",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hossein Baghayi",
+            "email": "hossein.baghayi@gmail.com"
+        }
+    ],
+    "require": {}
+}
